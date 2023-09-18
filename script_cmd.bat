@@ -1,4 +1,4 @@
-cd O:\ENSG\Semestre_9\Software\HelloProj
+cd O:\ENSG\Semestre_9\Bonn\HelloProj
 mkdir build_script
 cd build_script
 cmake ..
