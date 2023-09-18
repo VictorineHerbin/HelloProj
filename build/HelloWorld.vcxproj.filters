@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="O:\ENSG\Semestre_9\Bonn\HelloProj\hello.cpp">
+    <ClCompile Include="O:\ENSG\Semestre_9\Bonn\HelloProj\mains\hello.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
