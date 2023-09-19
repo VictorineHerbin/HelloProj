@@ -1,10 +1,10 @@
 Exercices de CICD
 
 Editer de nouveaux workflows :
-- ninja
-- Rel/Debug
-- Windows/Linux
-- Déploiement continu
+- ninja                       --
+- Rel/Debug                   -- OK
+- Windows/Linux               --
+- Déploiement continu         -- OK
 
 # This starter workflow is for a CMake project running on a single platform. There is a different starter workflow if you need cross-platform coverage.
 # See: https://github.com/actions/starter-workflows/blob/main/ci/cmake-multi-platform.yml
